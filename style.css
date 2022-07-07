@@ -101,3 +101,27 @@ body {
     text-align: center;
     margin-top: -15px; 
 }
+
+.quote-container {
+    background-color: #E5E7EB;
+}
+
+.quote-box {
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.text-2 {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1F2937;  
+}
+
+.text-3 {
+    font-weight: 900;
+    align-self: flex-end;
+}
