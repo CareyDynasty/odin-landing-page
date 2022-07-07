@@ -42,7 +42,6 @@ body {
     margin-right: 400px; 
 }
 
-}
 .hero-box {
     align-self: center;
     margin-right: 20px; 
@@ -67,4 +66,38 @@ body {
     padding: 5px 20px;
     border-radius: 5px;
     border: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.title-1 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+    margin-top: 25px;
+    
+}
+.container-box {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 50px;
+}
+.info {
+    flex-wrap: wrap;
+}
+.box-image {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 10px;
+    border: solid #3882F6;
+}
+
+.text-1 {
+    text-align: center;
+    margin-top: -15px; 
 }
